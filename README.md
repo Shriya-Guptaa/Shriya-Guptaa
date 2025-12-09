@@ -6,9 +6,9 @@
     But may I please ask you to follow me in return? Just a click!
     You may also want to connect with me on LinkedIn :))
 -->
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F6C0D0&height=120&section=header" alt="header"/> 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=25&duration=4500&pause=500&color=F74E78FF&width=435&lines=Hello%2C+I'm+Shriya+Gupta;Python+Developer" alt="Python Developer"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=25&duration=4500&pause=500&color=E85E88&width=435&lines=Hello%2C+I'm+Shriya+Gupta;Python+Developer" alt="Python Developer"/>
 </a>
 
 <div align="center">
@@ -82,4 +82,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="85" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F6C0D0&height=120&section=footer" alt="footer"/>
 
