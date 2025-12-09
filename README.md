@@ -78,7 +78,7 @@
   <a href="shriyagupta2472@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="85" height="35" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/shriyagupta2472" target="_blank">
+  <a href="https://www.linkedin.com/in/shriyagupta2472" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="85" height="35" alt="linkedin logo"  />
   </a>
 </div>
