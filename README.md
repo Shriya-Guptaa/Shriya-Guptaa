@@ -11,6 +11,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=25&duration=4500&pause=500&color=E85E88&width=435&lines=Hello%2C+I'm+Shriya+Gupta;Python+Developer" alt="Python Developer"/>
 </a>
 
+<div>
+    <img src="./assets/about_shriya_terminal.gif" alt="About Me Terminal GIF"/>
+</div>
+
 <div align="center">
 </div>
 
@@ -75,13 +79,17 @@
   <a href="https://www.instagram.com/_shriyaaaa_x_?igsh=dnhrcDlmY3JmcDQx" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="85" height="35" alt="instagram logo"  />
   </a>
-  <a href="shriyagupta2472@gmail.com" target="_blank">
+  <a href="mailto:shriyagupta2472@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="85" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/shriyagupta2472" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="85" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+<!--
+     Oh, hello there, recruiters!
+-->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F6C0D0&height=120&section=footer" alt="footer"/>
 
