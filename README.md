@@ -91,5 +91,12 @@
      Oh, hello there, recruiters!
 -->
 
+### Employer?
+> [!IMPORTANT]  
+> <a href="https://raw.githubusercontent.com/Shriya-Guptaa/Shriya-Guptaa/main/assets/ShriyaGupta_resume.pdf" download> Download My Resume </a>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F6C0D0&height=120&section=footer" alt="footer"/>
 
+<!--
+     Thanks for being my guest <3
+-->
