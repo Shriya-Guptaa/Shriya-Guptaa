@@ -75,6 +75,8 @@
   <img src="https://skillicons.dev/icons?i=r" height="30" alt="r logo"  />
 </div>
 
+## What is Shriya upto?
+Currently working on my major project which is inspired by [Regulatory Compliance Checker](https://github.com/Shriya-Guptaa/Regulatory-Compliance-Checker.git), but training and creating my own model and fine-tuning LLM using [Unsloth](https://github.com/unslothai/unsloth.git). ;)
 ## Connect with me!
 
 <div align="left">
