@@ -79,19 +79,29 @@
 
 ## What is Shriya upto?
 Currently working on my major project which is inspired by [Regulatory Compliance Checker](https://github.com/Shriya-Guptaa/Regulatory-Compliance-Checker.git), but training and creating my own model and fine-tuning LLM using [Unsloth](https://github.com/unslothai/unsloth.git). ;)
-## Connect with me!
 
-<div align="left">
-  <a href="https://www.instagram.com/_shriyaaaa_x_?igsh=dnhrcDlmY3JmcDQx" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="85" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:shriyagupta2472@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="85" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/shriyagupta2472" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="85" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+## Connect with me!
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <a href="https://www.instagram.com/_shriyaaaa_x_?igsh=dnhrcDlmY3JmcDQx" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="85" height="35" alt="instagram logo" />
+      </a>
+    </td>
+    <td>
+      <a href="mailto:shriyagupta2472@gmail.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="85" height="35" alt="gmail logo" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/shriyagupta2472" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="85" height="35" alt="linkedin logo" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 <!--
      Oh, hello there, recruiters!
