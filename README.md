@@ -17,7 +17,6 @@
 
 * Final-year Information Technology student passionate about building AI-powered applications and intelligent software systems.
 * Experienced in developing AI/ML solutions using LLMs, RAG pipelines, vector databases, and full-stack web technologies.
-* Currently working on an AI-Powered Contract Review System focused on contract analysis, compliance detection, and legal-domain fine-tuning.
 * Interested in Generative AI, NLP, Retrieval-Augmented Generation (RAG), multimodal systems, and AI-assisted automation.
 * Enjoy building practical projects that combine machine learning, data analysis, and user-focused application design.
 * Open to collaborations in AI/ML, NLP, full-stack AI applications, and research-driven projects.
@@ -38,7 +37,7 @@
 ## $${\color{#E85E88}Connect\ with \ me!}$$
 
 * [**LinkedIn**](https://www.linkedin.com/in/shriyagupta2472)
-* [**Instagram**](https://www.instagram.com/_shriyaaaa_x_?igsh=dnhrcDlmY3JmcDQx)
+* [**YouTube**](https://www.youtube.com/channel/UC8KQGOwgxLiNhJVHQne0NkQ)
 * [**Mail**](mailto:shriyagupta2472@gmail.com)
 
 Feel free to reach out if you have any questions or would like to collaborate!
